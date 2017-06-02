@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\tangsheng_work\\WorkSpace\\CalendarSelector-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_selector.xml",
+        "source": "D:\\tangsheng_work\\WorkSpace\\CalendarSelector-master1\\app\\src\\main\\res\\layout\\calendar_selector.xml"
+    },
+    {
+        "merged": "D:\\tangsheng_work\\WorkSpace\\CalendarSelector-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\tangsheng_work\\WorkSpace\\CalendarSelector-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\tangsheng_work\\WorkSpace\\CalendarSelector-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_item.xml",
+        "source": "D:\\tangsheng_work\\WorkSpace\\CalendarSelector-master1\\app\\src\\main\\res\\layout\\calendar_item.xml"
+    },
+    {
+        "merged": "D:\\tangsheng_work\\WorkSpace\\CalendarSelector-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar.xml",
+        "source": "D:\\tangsheng_work\\WorkSpace\\CalendarSelector-master1\\app\\src\\main\\res\\layout\\calendar.xml"
+    }
+]
